@@ -10,12 +10,8 @@ function greet(name = "world") {
 greet();
 ```
 
-## My Learning Goals
-
-Here is a simple list of things I want to learn:
-
-- Understand Markdown basics
-- Add images to a document
-- Create code blocks
-- Make lists in Markdown
-
+### My To-Do List for this Course
+- [x] Finish Step 1: Headers
+- [x] Finish Step 2: Images
+- [x] Finish Step 3: Code Examples
+- [ ] Finish Step 4: Task Lists
