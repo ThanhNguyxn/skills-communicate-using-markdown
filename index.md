@@ -9,3 +9,11 @@ function greet(name = "world") {
 }
 greet();
 ```
+
+## My Learning Goals
+Here is a simple list of things I want to learn:
+
+- Understand Markdown basics
+- Add images to a document
+- Create code blocks
+- Make lists in Markdown
